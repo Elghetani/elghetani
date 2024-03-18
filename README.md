@@ -22,7 +22,7 @@ Before running the deployment script, you will need to have the following:
 
 To get started:
 Clone this repository to your local machine.
-git clone 
+git clone https://github.com/Elghetani/elghetani
 Run terraform init to download the necessary Terraform plugins.
 Run terraform apply to create the infrastructure.
 
